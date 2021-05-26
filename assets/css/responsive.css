@@ -1,0 +1,441 @@
+@media screen and (max-width:1366px) {
+	/*==============================
+	   09. Home Page 
+	================================*/
+	.frequently_question_accordion {
+		padding: 80px 45px 80px 45px;
+	}
+	.frequently_question_accordion .panel-default>.panel-heading+.panel-collapse>.panel-body {
+		padding: 20px 20px 20px;
+	}
+	.frequently_question_accordion .panel-title a {
+		padding: 14px 15px 14px 25px;
+	}
+	.acordion_Frequently_title h3 {
+		margin-bottom: 45px;
+		font-size: 35px;
+		line-height: 40px;
+	}
+	.about_Single_item {
+		padding: 50px 50px 40px;
+	}
+	.our_service_carousel_active .owl-nav div {
+    	left: -75px;
+	}
+	.our_service_carousel_active .owl-nav div.owl-next {
+	    right: -75px;
+	}
+	.complete_project_active .owl-nav div {
+	    left: -75px;
+	}
+	.complete_project_active .owl-nav div.owl-next {
+	    right: -75px;
+	}
+	.client_say_testimonial_active .owl-nav div {
+    	left: -75px;
+	}
+	.client_say_testimonial_active .owl-nav div.owl-next {
+	    right: -75px;
+	}
+}
+/*max-width:1366px*/
+@media screen and (max-width:1250px) {
+	.container {
+		padding: 0px 15px;
+	}
+}
+
+@media screen and (max-width:1200px) {
+
+	/*==============================
+	   09. Blog Page 
+	================================*/
+	.project_div .image {
+	    width: 29%;
+	}
+	/*==============================
+	   09. Home 2 Page 
+	================================*/
+	.single_blog_h_active .owl-nav div {
+	    top: 66%;
+	}
+}
+/*max-width:1200px*/
+
+@media screen and (max-width:1024px) {
+	
+}
+/*max-width:1024px*/
+
+@media screen and (max-width:992px) {}
+/*max-width:992px*/
+
+@media screen and (max-width:991px) {
+	/*==============================
+	   09. Home 2 Page 
+	================================*/
+		.single_blog_h_active .owl-nav div.owl-next {
+	    right: 0;
+	    left: 23%;
+	}
+
+	.single_blog_h_active .owl-nav div {
+	    left: 17%
+	}
+	.single_blog_h_active .owl-nav div {
+	    top: 58%;
+	}
+
+	.container {
+		padding: 0px 15px;
+	}
+	.navbar-nav ul.dropdown-menu ul.dropdown-menu {
+	    margin-top: 0px !important;
+	}
+	.navbar-nav ul.dropdown-menu ul.dropdown-menu {
+	    background-color: transparent;
+	}
+	/*==============================
+	   09. All section padding Page 
+	================================*/
+	.Testimonials_section_area {
+		padding: 100px 0px 70px;
+	}
+	.team_page_section_area {
+		padding: 72px 0px 70px;
+	}
+	.team_page_details_area {
+		padding: 100px 0px 64px;
+	}
+	.faq_page_area {
+		padding: 75px 0px 78px;
+	}
+	.page_area_404 {
+		padding: 55px 0px 100px;
+	}
+	.make_an_appoinment_area {
+		padding: 78px 0px 85px;
+	}
+	.request_call_back_area {
+		padding: 100px 0px 85px;
+	}
+	.about_page_tab_section_area {
+		padding: 94px 0px 67px;
+	}
+	.portfolio_section_area {
+		padding: 100px 0px 85px;
+	}
+	.latest_blog_section_area {
+		padding: 100px 0px 65px;
+	}
+	.grow_up_Section_Area {
+		padding: 93px 0px 90px;
+	}
+	.complete_project_section {
+		padding: 72px 0px 100px;
+	}
+	.looking_for_specific_area {
+		padding: 93px 0px 100px;
+	}
+	.our_service_section {
+		padding: 75px 0px 100px;
+	}
+	.blog_page_area {
+	    padding: 100px 0px 52px;
+	}
+	.blog_page_area.blog_page_area_respon {
+	    padding: 100px 0px 94px;
+	}
+	.service_page_section {
+	    padding: 100px 0px 70px;
+	}
+	.why_choose_us_area {
+	    padding: 100px 0px 70px;
+	}
+	.looking_for_specific_area.about_our_company_area {
+	    padding: 70px 0px 100px;
+	}
+	.portfolio_section_area.project_gallery_area {
+	    padding: 72px 0px 85px;
+	}
+	.complete_project_section.client_say_testimonial {
+	    padding: 72px 0px 100px;
+	}
+	.Pricing_section_area {
+	    padding: 74px 0px 70px;
+	}
+	.footer_area {
+	    padding: 87px 0px 0px;
+	}
+	.service_details_Area {
+	    padding: 98px 0px 92px;
+	}
+	/*==============================
+	   09. Service Details Page 
+	================================*/
+	.starts_charts_left {
+	    margin-bottom: 30px;
+	}
+	.buisness_benifits_right {
+	    margin-top: 30px;
+	}
+	/*==============================
+	   09. Team Details Page 
+	================================*/
+	.about_team_member_img {
+		max-width: 390px;
+		margin-bottom: 30px;
+	}
+	/*==============================
+	   09. About page
+	================================*/
+	.tab_text_ser {
+		margin-top: 30px;
+	}
+	.tab_button_service {
+	    text-align: center;
+	}
+	.request_contact_details {
+		max-width: 100%;
+		margin-bottom: 50px;
+	}
+	/*==============================
+	   09. Home page
+	================================*/
+	.Free_Consultation_text {
+		margin-top: 30px;
+	}
+	.content_grow_up {
+		margin-bottom: 50px;
+	}
+	.frequently_question_bg {
+		display: none;
+	}
+	.frequently_question_accordion {
+		padding: 92px 0px 80px 0px;
+	}
+	.frequently_question_accordion .panel-title a span {
+		margin-right: 8px;
+	}
+	.looking_for_right {
+		margin-top: 30px;
+	}
+	.looking_for_left.para_default {
+	    padding-right: 0px;
+	}
+	/*======================
+   		10. Blog Grid page
+	========================*/
+	.single_blog_item_area.blog_grid_item {
+	    margin-bottom: 25px;
+	}
+	/*==============================
+	   09. Contact page
+	================================*/
+	.Subscribe_main {
+		margin-top: 30px;
+	}
+	/*==============================
+	   09. Blog page
+	================================*/
+	.blog_right_side_area {
+	    max-width: 370px;
+	    margin: 40px auto 0;
+	}
+	.blog_pagination {
+	    text-align: center;
+	    margin-top: 30px; 
+	}
+	.blog_left_side_area {
+	    padding-right: 0px;
+	}
+	.blog_right_side_area {
+	     padding-left: 0px; 
+	}
+}
+/*max-width:991px*/
+
+@media screen and (max-width:900px) {
+	/*===owl nav responsive===*/
+	.our_service_carousel_active .owl-nav div {
+	    top: 100%;
+	    left: 42%;
+	}
+	.our_service_carousel_active .owl-nav div.owl-next {
+	    right: 42%;
+	    left: auto;
+	}
+	.our_service_carousel_active .owl-nav {
+	    margin-top: 40px;
+	    overflow: hidden;
+	}
+	
+
+	.complete_project_active .owl-nav div {
+	    top: 100%;
+	    left: 42%;
+	}
+	.complete_project_active .owl-nav div.owl-next {
+	    right: 42%;
+	    left: auto;
+	}
+	.complete_project_active .owl-nav {
+	    margin-top: 40px;
+	    overflow: hidden;
+	}
+
+
+	.client_say_testimonial_active .owl-nav div {
+	    top: 100%;
+	    left: 42%;
+	}
+	.client_say_testimonial_active .owl-nav div.owl-next {
+	    right: 42%;
+	    left: auto;
+	}
+	.client_say_testimonial_active .owl-nav {
+	    margin-top: 40px;
+	    overflow: hidden;
+	}
+
+
+
+}
+/*max-width:767px*/
+
+@media screen and (max-width:768px) {}
+/*max-width:767px*/
+
+@media screen and (max-width:767px) {
+	/*==============================
+	   09. Testimonial Page 
+	================================*/
+	.single_testimonial_promo_div, 
+	.single_team_Consultants, 
+	.service_p_single_item,
+	.choose_us_single,
+	.capabilities_single {
+		max-width: 370px;
+		margin: 0 auto 30px;
+	}
+	/*==============================
+	   09. Home Page 02
+	================================*/
+	.single_blog_h_active {
+	    margin-top: 85px;
+	}
+	.single_blog_h_active .owl-nav div {
+	    left: 44%;
+	}
+	.single_blog_h_active .owl-nav div.owl-next {
+	    right: 0;
+	    left: 50%;
+	}
+	.single_blog_h_active .owl-nav div {
+	    top: -48px;
+	}
+	/*==============================
+	   09. Home Page 01
+	================================*/
+	.about_Single_item,
+	.single_Pricing_item {
+	    max-width: 390px;
+	    margin: 0 auto;
+	}
+	.about_Single_item {
+	    padding: 50px 15px 40px;
+	}
+	.request_call_back_area {
+	    padding: 100px 0px 70px;
+	}
+	.single_blog_item_div h2 {
+	    margin:0;
+	}
+	.our_service_section {
+	    padding: 75px 0px 84px;
+	}
+	.complete_project_section {
+	    padding: 72px 0px 83px;
+	}
+	.frequently_question_accordion {
+	    padding: 92px 0px 50px 0px;
+	}
+	.grow_up_Section_Area {
+	    padding: 93px 0px 62px;
+	}
+	/*======================
+   		10. Footer Area
+	========================*/
+	.footer_widget {
+		max-width: 390px;
+		margin: 0 auto 40px;
+	}
+	.portfolio_menu {
+		margin-left: 0px;
+		text-align: center;
+	}
+	/*======================
+   		10. Service Details 
+	========================*/
+	.service_details_Area {
+	    padding: 98px 0px 34px;
+	}
+	.buisness_capabilities_title {
+	    text-align: center;
+	    margin-bottom: 35px;
+	}
+	.buisness_benifits_title {
+	    text-align: center;
+	    margin-bottom: 35px;
+	}
+	.request_title_back {
+	    text-align: center;
+	}
+	.buisness_benifits_right {
+	    max-width: 500px;
+	    margin: 0 auto;
+	}
+	
+}
+/*max-width:767px*/
+
+@media screen and (max-width: 640px) {
+	/*======================
+   		10. faq page
+	========================*/
+	.content404 h2 {
+		font-size: 100px;
+	}
+}
+/*max-width:640px*/
+
+@media screen and (max-width: 600px) {
+	.our_service_carousel_active .owl-nav{display: none;} 
+	.complete_project_active .owl-nav{display: none;} 
+	.client_say_testimonial_active .owl-nav{display: none;} 
+}
+/*max-width:640px*/
+
+@media screen and (max-width: 480px) {
+	/*==============================
+	   09. About page
+	================================*/
+	.quick_contact_content.quick_contact_content_about p {
+		line-height: 24px;
+		color: #fff;
+	}
+	/*==============================
+	   09. Contact page
+	================================*/
+	.Subscribe_btn {
+		padding: 11px 15px;
+	}
+}
+/*max-width:480px*/
+
+@media screen and (max-width: 320px) {}
+/*max-width:320px*/
+
+/*----------------------------------------
+THANK YOU
+---------------------------------------------*/
